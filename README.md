@@ -27,7 +27,7 @@ Ich habe großes Interesse an **Discord Bots**, Webentwicklung und verschiedenen
 
 ### 🔗 Links zu mir
 
-- [💬 Discord](https://discord.com) – Bleib in Verbindung!
+- [💬 Discord](https://discord.com/blackcrew) – Bleib in Verbindung!
 - [🐱 GitHub](https://github.com) – Schau dir meine Repositories an!
 
 ---
